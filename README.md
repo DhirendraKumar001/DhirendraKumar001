@@ -14,7 +14,7 @@
 ### 👋 About Me
 
 - 🎓 B.Tech in Computer Science & Engineering, Maharishi Markandeshwar (Deemed to be University) — *2022 to 2026*
-- 💻 **Fresher** Java Backend Developer, skilled in **Spring Boot, React.js, and MySQL**
+- 💻 **Fresher** Java Full Stack Developer, skilled in **Spring Boot, React.js, and MySQL**
 - 💼 Java Developer Intern at **TechnoHacks EduTech** — built REST APIs and backend modules in a real Agile team
 - 🧩 Solved **100+ DSA problems** on LeetCode & HackerRank
 - 📜 Certified in **Java Fundamentals (Geekster)** | Participated in **Javathon – Alpha Tech Coding Challenge**
