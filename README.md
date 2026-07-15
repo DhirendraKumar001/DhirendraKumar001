@@ -1,103 +1,105 @@
-<h1 align="center">Hi 👋, I'm Dhirendra Kumar</h1>
-<h3 align="center">Java Backend Developer | Spring Boot & React Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  📍 East Champaran, Bihar, India &nbsp;|&nbsp; 🎓 B.Tech CSE, MMDU &nbsp;|&nbsp; 📧 dhiraendra542005@gmail.com
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dhirendra+Kumar+%F0%9F%91%8B;Java+Backend+Developer;Spring+Boot+%7C+React.js+%7C+MySQL;Fresher+%7C+Open+to+Opportunities+%F0%9F%9A%80" alt="Typing SVG" />
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-black?style=flat&logo=vercel&logoColor=white" /></a>
-</p>
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=DhirendraKumar001&color=2E9EF7&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/DhirendraKumar001?label=Follow&style=social)](https://github.com/DhirendraKumar001)
+
+</div>
 
 ---
 
-### 👨‍💻 About Me
+### 👋 About Me
 
-- 🎓 B.Tech in Computer Science & Engineering, Maharishi Markandeshwar (Deemed to be University), 2022–2026
-- 💼 Java Developer Intern at **TechnoHacks EduTech**, building backend modules with Spring Boot & MySQL
-- 🌱 Currently strengthening my skills in **Microservices, System Design, and Cloud (AWS)**
+- 🎓 B.Tech in Computer Science & Engineering, Maharishi Markandeshwar (Deemed to be University) — *2022 to 2026*
+- 💻 **Fresher** Java Backend Developer, skilled in **Spring Boot, React.js, and MySQL**
+- 💼 Java Developer Intern at **TechnoHacks EduTech** — built REST APIs and backend modules in a real Agile team
 - 🧩 Solved **100+ DSA problems** on LeetCode & HackerRank
-- 📄 Java Fundamentals Certified (Geekster) | Javathon Participant (Alpha Tech Coding Challenge)
-- ⚡ Fun fact: I like turning REST APIs into rock-solid, production-ready services
+- 📜 Certified in **Java Fundamentals (Geekster)** | Participated in **Javathon – Alpha Tech Coding Challenge**
+- 🔭 Currently building full-stack projects and sharpening **System Design & Microservices** skills
+- 🌱 Actively learning **AWS, Docker & Kubernetes**
+- 💬 Ask me about **Java, Spring Boot, REST APIs, or DSA**
+- 📫 Reach me at **dhiraendra542005@gmail.com**
+- ⚡ Actively looking for **SDE / Java Developer** roles — let's connect!
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<div align="center">
 
-**Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring MVC](https://img.shields.io/badge/-Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,js,spring,react,tailwind,mysql,mongodb,postgres,aws,docker,kubernetes,jenkins,git,github,postman,maven,idea,vscode&theme=dark" />
 
-**Databases**
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**DevOps & Cloud**
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-
-**Tools & Testing**
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/-Mockito-78A641?style=flat-square)
+</div>
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Projects
 
-#### 🛍️ [The Indian Tradition – E-Commerce Platform](#)
-Multi-role e-commerce platform (Customer/Seller/Admin) with secure auth, RESTful APIs, and a responsive React.js UI backed by Spring Boot and MySQL.
-`React.js` `Spring Boot` `MySQL`
+<div align="center">
 
-#### 🏦 [CyberBank – Digital Banking System](#)
-Secure banking application with account management, fund transfers, and loans. Implements JWT authentication, role-based access control, and 30+ REST APIs.
-`React.js` `Spring Boot` `Spring Security` `JWT` `MySQL`
+<a href="#">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DhirendraKumar001&repo=the-indian-tradition&theme=dark&hide_border=true" />
+</a>
+<a href="#">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DhirendraKumar001&repo=cyberbank&theme=dark&hide_border=true" />
+</a>
 
-#### ✅ [Todo Application](#)
-Task management system with CRUD operations, validation, and exception handling, built on a layered Spring Boot + JPA architecture.
-`Java` `Spring Boot` `MySQL`
+<a href="#">
+<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=DhirendraKumar001&repo=todo-application&theme=dark&hide_border=true" />
+</a>
 
----
+</div>
 
-### 💼 Experience
+| Project | Description | Stack |
+|---|---|---|
+| 🛍️ **[The Indian Tradition](#)** | Multi-role e-commerce platform (Customer/Seller/Admin) with secure auth and RESTful APIs | React.js, Spring Boot, MySQL |
+| 🏦 **[CyberBank](#)** | Digital banking system with JWT auth, RBAC, and 30+ REST APIs | React.js, Spring Boot, Spring Security, JWT, MySQL |
+| ✅ **[Todo Application](#)** | Task manager with CRUD, validation, and layered architecture | Java, Spring Boot, MySQL |
 
-**Java Developer Intern** — TechnoHacks EduTech *(May 2024 – July 2024, Remote)*
-- Developed and maintained backend modules using Java, Spring Boot, and MySQL
-- Designed RESTful APIs for frontend-backend communication
-- Collaborated in an Agile team to ship scalable, maintainable features
-- Debugged, tested, and optimized applications for reliability and performance
+> 💡 *Replace the `repo=` names above with your actual repository names once pushed to GitHub, and swap the `#` links for real repo URLs.*
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" alt="Top Languages" />
-</p>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=DhirendraKumar001&show_icons=true&theme=dark&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=DhirendraKumar001&theme=dark&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhirendraKumar001&layout=compact&theme=dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DhirendraKumar001&theme=darkhub&no-frame=true&row=1&column=6)
+
+</div>
 
 ---
 
-### 📫 Let's Connect
+### 📈 Contribution Graph
 
-📧 **Email:** dhiraendra542005@gmail.com &nbsp;|&nbsp; 📱 **Phone:** +91-6200061173
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DhirendraKumar001&theme=react-dark&hide_border=true" />
+</div>
 
-<p align="center">⭐️ Thanks for stopping by — feel free to explore my repos and reach out!</p>
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:dhiraendra542005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+
+</div>
+
+<div align="center">
+<sub>⭐️ Thanks for visiting — I'm always open to internships, entry-level roles, and collaboration opportunities!</sub>
+</div>
