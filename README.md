@@ -94,9 +94,9 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/dhirendra-kumar-832880288"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:dhiraendra542005@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://YOUR-PORTFOLIO-LINK"><img src="https://skillicons.dev/icons?i=vercel" /></a>
+<a href="https://portfolio-frontend-s283.onrender.com/"><img src="https://skillicons.dev/icons?i=vercel" /></a>
 
 </div>
 
